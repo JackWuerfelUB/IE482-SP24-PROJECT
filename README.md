@@ -8,3 +8,5 @@ Lets try to use the robot arm UR5..
 
 Links:
 https://wiki.ros.org/ur_gazebo
+
+tests
