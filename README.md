@@ -4,14 +4,14 @@ Jack Wuerfel, Thomas Allan
 
 Idea 1 - DrinkBot
 
-_What do you plan to do? (application)_  We want to use the UR5 robot arm as an automated bartender.  We plan on utilizing Whisper AI or LlamaIndex for the robot to take in voice commands, translate that to a pre-assigned location of the speified drink, and have the arm carefully grab/transport that drink to the user at the bar.
+_What do you plan to do? (application)_  We want to use the UR5 robot arm as an automated bartender.  Our goal is to have the robot to take in voice commands, translate that to a pre-assigned location of the specified drink, and have the arm carefully grab/transport that drink to the user at the bar.
 
-_Why should anyone care? (motivation)_  Our motivation is getting robo-crunk.  Just kidding.  But in all seriousness, we've seen a progression towards automation at restaurants and other service industries within the past five years.  A robotic arm that delivers drinks could potentially free up staff to perform other duties that the robot can't do yet (saying YET because the robot may eventually be able to take payments for drinks, detect and clean spills, and recognize regular patrons.  Imagine if Sam Malone from "Cheers!" was a robot.)
+_Why should anyone care? (motivation)_  Our motivation is getting robo-crunk.  Just kidding.  But in all seriousness, we've seen a progression towards automation at restaurants and other service industries within the past five years.  For example, an Asian buffet in Williamsville called "Wind" uses a robot to deliver small plates of food to your table.  A robotic arm that delivers drinks could potentially free up staff to perform other duties that the robot can't do yet (saying YET because the robot may eventually be able to take payments for drinks, detect and clean spills, and recognize regular patrons.  Imagine if Sam Malone from "Cheers!" was a robot.)
 
-_How do you plan to accomplish this? (milestones)_  The first thing to do is set up a virtual world in Gazebo.  This world would have the UR5, a bar, and a shelf that contains bottles.  Next, we should focus on getting the UR5 arm to move using ROS.  After we get the arm to move manually, we will then program a set of commands that tell the robot to grab a specific drink or bottle.  After this, we will implement voice commands that tell the robot to grab/transport a specific drink or bottle.
+_How do you plan to accomplish this? (milestones)_  The first thing to do is set up a virtual world in Gazebo.  This world would have the UR5, a bar, and a shelf that contains bottles.  Next, we should focus on getting the UR5 arm to move using ROS.  After we get the arm to move manually, we will then program a set of commands that tell the robot to grab a specific drink or bottle.  After this, we will implement voice commands that tell the robot to grab/transport a specific drink.
 
 The following programs/tools will be implemented during this project: (in no particular order)
-- Whisper AI
+- Whisper AI or LlamaIndex, if applicable
 - UR5
 - Gazebo
 - SolidWorks
@@ -19,6 +19,7 @@ The following programs/tools will be implemented during this project: (in no par
 - Margarita(s)
 
 Links:
+
 https://wiki.ros.org/ur_gazebo
 
 https://openai.com/research/whisper
