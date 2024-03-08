@@ -55,8 +55,11 @@ The following programs/tools will be implemented during this project: (in no par
 
 Links:
 https://wiki.ros.org/ur_gazebo
+
 https://www.youtube.com/watch?v=ayp87SjrwPc
+
 https://www.youtube.com/watch?v=0EKkzCQ7cCE
+
 https://docs.google.com/presentation/d/1kP1_A7p5AVnGYRBCUNZKsF0EOGWE4AL7kdgR3cCcOcU/edit#slide=id.p
 
 
