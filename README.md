@@ -36,6 +36,8 @@ https://docs.google.com/presentation/d/1kP1_A7p5AVnGYRBCUNZKsF0EOGWE4AL7kdgR3cCc
 
 https://www.llamaindex.ai/open-source
 
+https://www.llamaindex.ai/blog/ai-voice-assistant-enhancing-accessibility-in-ai-with-llamaindex-and-gpt3-5-f5509d296f4a
+
 Limitations/Assumptions:
 - One-semester project, time limitation
 - Learning new software and programming, knowledge limitation
