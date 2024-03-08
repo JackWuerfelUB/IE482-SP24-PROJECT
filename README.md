@@ -2,11 +2,11 @@
 
 Jack Wuerfel, Thomas Allan
 
-##Idea 1 - DrinkBot
+Idea 1 - DrinkBot
 
 _What do you plan to do? (application)_  We want to use the UR5 robot arm as an automated bartender.  We plan on utilizing Whisper AI or LlamaIndex for the robot to take in voice commands, translate that to a pre-assigned location of the speified drink, and have the arm carefully grab/transport that drink to the user at the bar.
 
-_Why should anyone care? (motivation)_  Our motivation is getting robo-crunk.  But in all seriousness, we've seen a progression towards automation at restaurants and other service industries within the past five years.  A robot bartender could potentially free up staff to perform other duties that the robot can't do yet (saying YET because the robot may eventually be able to take payments for drinks, detect and clean spills, and recognize regular patrons.  Imagine if Sam Malone from "Cheers!" was a robot.)
+_Why should anyone care? (motivation)_  Our motivation is getting robo-crunk.  Just kidding.  But in all seriousness, we've seen a progression towards automation at restaurants and other service industries within the past five years.  A robotic arm that delivers drinks could potentially free up staff to perform other duties that the robot can't do yet (saying YET because the robot may eventually be able to take payments for drinks, detect and clean spills, and recognize regular patrons.  Imagine if Sam Malone from "Cheers!" was a robot.)
 
 _How do you plan to accomplish this? (milestones)_  The first thing to do is set up a virtual world in Gazebo.  This world would have the UR5, a bar, and a shelf that contains bottles.  Next, we should focus on getting the UR5 arm to move using ROS.  After we get the arm to move manually, we will then program a set of commands that tell the robot to grab a specific drink or bottle.  After this, we will implement voice commands that tell the robot to grab/transport a specific drink or bottle.
 
@@ -20,12 +20,20 @@ The following programs/tools will be implemented during this project: (in no par
 
 Links:
 https://wiki.ros.org/ur_gazebo
+https://openai.com/research/whisper
+https://github.com/openai/whisper
+https://www.youtube.com/watch?v=jOHb4M-jj4E
+https://www.youtube.com/watch?v=ayp87SjrwPc
+https://www.youtube.com/watch?v=0EKkzCQ7cCE
+https://docs.google.com/presentation/d/1kP1_A7p5AVnGYRBCUNZKsF0EOGWE4AL7kdgR3cCcOcU/edit#slide=id.p
+https://www.llamaindex.ai/open-source
 
 Limitations/Assumptions:
-- time/etc
-- one at a time
+- One-semester project, time limitation
+- Learning new software and programming, knowledge limitation
+- Potential difficulty connecting to robotic arm, could possibly use voice commands through the laptop to operate in Gazebo?
 
-##Idea 2 - Random Inspection Bot
+Idea 2 - Random Inspection Bot
 
 _What do you plan to do? (application)_  We want to use the UR5 robot arm as tool to transport parts from a manufacturing floor into a Coordinate Measuring Machine (CMM).  We plan on creating a "completed parts bin" at a machine shop from which the robot randomly selects.  The arm will then transport this part to the CMM, wait for pass/fail criteria from the CMM, then move the part to the appropriate pass/fail bin.
 
@@ -39,6 +47,10 @@ The following programs/tools will be implemented during this project: (in no par
 - Gazebo
 
 Links:
+https://wiki.ros.org/ur_gazebo
+https://www.youtube.com/watch?v=ayp87SjrwPc
+https://www.youtube.com/watch?v=0EKkzCQ7cCE
+https://docs.google.com/presentation/d/1kP1_A7p5AVnGYRBCUNZKsF0EOGWE4AL7kdgR3cCcOcU/edit#slide=id.p
 
 
 Limitations/Assumptions:
