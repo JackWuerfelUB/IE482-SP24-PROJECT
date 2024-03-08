@@ -6,7 +6,7 @@ Jack Wuerfel, Thomas Allan
 
 Idea 1 - DrinkBot
 
-_What do you plan to do? (application)_  We want to use the UR5 robot arm as an automated bartender.  Our goal is to have the robot to take in voice commands, translate that to a pre-assigned location of the specified drink, and have the arm carefully grab/transport that drink to the user at the bar.
+_What do you plan to do? (application)_  We want to use the UR5 robot arm as an automated bartender.  Our goal is to have the robot take in voice commands, translate that to a pre-assigned location of the specified drink, and have the arm carefully grab/transport that drink to the user at the bar.
 
 _Why should anyone care? (motivation)_  Our motivation is getting robo-crunk.  Just kidding.  But in all seriousness, we've seen a progression towards automation at restaurants and other service industries within the past five years.  For example, an Asian buffet in Williamsville called "Wind" uses a robot to deliver small plates of food to your table.  A robotic arm that delivers drinks could potentially free up staff to perform other duties that the robot can't do yet (saying YET because the robot may eventually be able to take payments for drinks, detect and clean spills, and recognize regular patrons.  Imagine if Sam Malone from "Cheers!" was a robot.)
 
