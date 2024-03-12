@@ -27,7 +27,7 @@ Limitations/Assumptions:
 ---
 Idea 2 - Random Inspection Bot
 
-_What do you plan to do? (application)_  We want to use the UR5 robot arm as tool to transport parts from a manufacturing floor into a Coordinate Measuring Machine (CMM).  We plan on creating a "completed parts bin" at a machine shop from which the robot randomly selects.  The arm will then transport this part to the CMM, wait for pass/fail criteria from the CMM, then move the part to the appropriate pass/fail bin.
+_What do you plan to do? (application)_  We want to use the UR5 robot arm as a tool to transport parts from a manufacturing floor into a Coordinate Measuring Machine (CMM).  We plan on creating a "completed parts bin" at a machine shop from which the robot randomly selects.  The arm will then transport this part to the CMM, wait for pass/fail criteria from the CMM, then move the part to the appropriate pass/fail bin.
 
 _Why should anyone care? (motivation)_  In a machine shop or manufacturing facility, it's vital that the parts being manufactured be inspected before they get distributed.  Depending on the level of quality desired, a variety of inspection methods may be utilized.  In this case, we are simulating a medium volume shop that produces high precision parts.  Robot arms can be used in place of an inspector in order to automate this process.  The company can better utilize their staff if less of them are required to perform inspections.  
 
