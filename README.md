@@ -59,6 +59,16 @@ https://www.youtube.com/watch?v=0EKkzCQ7cCE
 
 https://docs.google.com/presentation/d/1kP1_A7p5AVnGYRBCUNZKsF0EOGWE4AL7kdgR3cCcOcU/edit#slide=id.p
 
+--- 
+Other Github Links:
+https://github.com/issaiass/ur5_robotiq_85_picknplace
+https://github.com/topics/ur5-robot?o=desc&s=stars
+https://github.com/utecrobotics/ur5
+https://github.com/pietrolechthaler/UR5-Pick-and-Place-Simulation
+https://github.com/TAMS-Group/tams_ur5_gazebo
+https://github.com/lihuang3/ur5_ROS-Gazebo
+https://github.com/IE-482-582/spring2024/issues/37
+
 https://www.llamaindex.ai/open-source
 
 https://www.llamaindex.ai/blog/ai-voice-assistant-enhancing-accessibility-in-ai-with-llamaindex-and-gpt3-5-f5509d296f4a
