@@ -21,9 +21,9 @@ source devel/setup.bash
 ```
 roslaunch ur5_robotiq85_moveit_config demo_gazebo.launch
 ```
--tracing that launch file..
-     -  ~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/launch/demo_gazebo.launch
-     - contains: ~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/launch/demo.launch
-     - contains: ~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/launch/gazebo.launch
+- tracing that launch file..
+-  ~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/launch/demo_gazebo.launch
+- contains: ~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/launch/demo.launch
+- contains: ~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/launch/gazebo.launch
         
 
