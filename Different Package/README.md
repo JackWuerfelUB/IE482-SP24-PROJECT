@@ -6,7 +6,16 @@ Notes while following the following github stuff..
 ```
 sudo apt install ros-noetic-moveit
 ```
-4. install the following git hub package
+3.  install the following git hub package
+```
+cd ~/catkin_ws/src
+git clone https://github.com/ClangWU/ur5_package.git
+```
+```
+cd .. && catkin_make
+```
+
+
    - https://github.com/ClangWU/ur5_package
      
 
