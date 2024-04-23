@@ -36,6 +36,8 @@ pico ~/.bashrc
 export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/Desktop 
 ```
 -Theoretically this command should work now since i created a "custom world"
+**custom world is not working........**
+
 ```
 roslaunch ur5_robotiq85_moveit_config demo_gazebo.launch world_name:=~/Desktop/testing.tables.world
 
