@@ -39,6 +39,6 @@ export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/Desktop
 **custom world is not working........**
 
 ```
-roslaunch ur5_robotiq85_moveit_config demo_gazebo.launch world_name:=~/Desktop/testing.tables.world
+roslaunch ur5_robotiq85_moveit_config demo_gazebo.launch world_name:=~/Desktop/testing_tables.world
 
 ```
