@@ -26,4 +26,12 @@ roslaunch ur5_robotiq85_moveit_config demo_gazebo.launch
 -         contains: ~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/launch/demo.launch
 -         contains: ~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/launch/gazebo.launch
         
+#trying toi make custom world
+added this line into bashrc file...
+```
+pico ~/.bashrc
 
+```
+```
+export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/Desktop 
+```
