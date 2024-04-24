@@ -49,3 +49,11 @@ I then saved a test world into that directory..
 ```
 roslaunch ur5_robotiq85_moveit_config demo2_gazebo.launch
 ```
+
+
+making edits to gazebo launch file aswell... changed `-z 0.8`
+```
+<!-- Spawn the robot in Gazebo , this is where you can choose to spawn it in gazebo..-->
+  <node name="spawn_gazebo_model" pkg="gazebo_ros" type="spawn_model" args="-urdf -param robot_description -model robot $(arg unpause) $(arg world_pose) $(arg initial_joint_positions) -z 0.8"
+    respawn="false" output="screen" />
+```
