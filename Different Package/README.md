@@ -33,7 +33,8 @@ pico ~/.bashrc
 
 ```
 ```
-export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/Desktop 
+export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/Desktop
+export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/worlds
 ```
 -Theoretically this command should work now since i created a "custom world"
 **custom world is not working........**
