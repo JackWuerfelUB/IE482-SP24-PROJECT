@@ -43,7 +43,7 @@ roslaunch ur5_robotiq85_moveit_config demo_gazebo.launch world_name:=~/Desktop/t
 
 ```
 did some really jank shit.. did a new save called demo2_gazebo.launch
-on line 33 added:  <arg name="world_name" value="$(dirname)/testing_tables.world"/>
+on line 33 added: ` <arg name="world_name" value="$(dirname)/testing_tables.world"/>`
 I then saved a test world into that directory..
 -run this bad boy from the home desktop
 ```
