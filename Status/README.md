@@ -7,7 +7,7 @@ To Do / Progress Table
 | -------------------------------------------- | ----------- |
 | Get package funtioning and start to understand it | 71% |
 | Create custom world (generic crap one) and get it to open with launch file | 88% |
-|  | 71% |
-| Create custom world and get it to open with launch file | 42% |
-| Get package funtioning and start to understand it | 71% |
-| Create custom world and get it to open with launch file | 42% |
+| get a legit world going w/ table and different drinks to grab | 15% |
+| write a script to take the users input of which drink they want and then does something with that | 0% |
+| If this isn't going well pivot to create some documentation on how ot use the UR5 in real life | Low % |
+
