@@ -9,5 +9,7 @@ To Do / Progress Table
 | Create custom world (generic crap one) and get it to open with launch file | 88% |
 | get a legit world going w/ table and different drinks to grab | 15% |
 | write a script to take the users input of which drink they want and then does something with that | 0% |
+| Create documentation and structure package so someone can just basically download this repo | 1% |
+| Create video of demenstation | 0% |
 | If this isn't going well pivot to create some documentation on how ot use the UR5 in real life | Low % |
 
