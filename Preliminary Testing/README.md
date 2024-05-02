@@ -4,6 +4,6 @@
 ~~1. In your git-projects folder clone the projects from the ros2223-final-project meta repository:
 `git clone  --recurse-submodules https://gitioc.upc.edu/rostutorials/ros2223-final-project.git`~~
 
-*THIS IDEA WAS SCRAPPED*
+*THIS IDEA WAS SCRAPPED, DELETE THIS ENTIRE DIRECTORY*
 
 
