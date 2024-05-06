@@ -6,12 +6,17 @@
 
 ---
 
-## (delete this) What goes in your `README.md`?
-(delete this) The following sections are required.  You may add other section as you see fit.
-
 ## Motivation / Overview of your project.
-- (delete this) Why did you choose this project?   At a high level, what is your project about? Who should care about what you've done? 
+- (delete this) Why did you choose this project?   At a high level, what is your project about? Who should care about what you've done?
 
+  
+- `application` What do you plan to do?  We want to use the UR5 robot arm as an automated bartender. Our goal is to have the robot take in voice commands, translate that to a pre-assigned location of the specified drink, and have the arm carefully grab/transport that drink to the user at the bar.
+
+- `motivation` Why should anyone care?  Our motivation is getting robo-crunk. Just kidding. But in all seriousness, we've seen a progression towards automation at restaurants and other service industries within the past five years. For example, an Asian buffet in Williamsville called "Wind" uses a robot (called a BellaBot) to deliver small plates of food to your table. A robotic arm that delivers drinks could potentially free up staff to perform other duties that the robot can't do yet (saying YET because the robot may eventually be able to take payments for drinks, detect and clean spills, and recognize regular patrons. Imagine if Sam Malone from "Cheers!" was a robot.)
+
+- `Scope Shift` We started off strong but soon came to the realization that this project was quite monumental and there were not alot of resources out there with the moajority of the "work" already done. The goal shifted and we want to explain how a repo we found online works and try to get it to behave in the manner of a robotic bartender.
+
+  
 ## Demonstration
 - (delete this) Use a combination of screen shots, video, and paragraph explanation to show off your project.
    
