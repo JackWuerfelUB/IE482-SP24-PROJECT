@@ -1,4 +1,5 @@
 # IE482-SP24-PROJECT
+## Robotic Bartender, AKA just get 
 *Jack Wuerfel, Thomas Allan*
 
 ---
