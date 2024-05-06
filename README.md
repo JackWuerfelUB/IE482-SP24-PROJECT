@@ -1,6 +1,6 @@
 # IE482-SP24-PROJECT
-
 *Jack Wuerfel, Thomas Allan*
+
 ---
 
 ## What goes in your `README.md`?
