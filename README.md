@@ -1,8 +1,8 @@
 # IE482-SP24-PROJECT
 ## Robotic Bartender, AKA just the get arm to do something
-Students: *Jack Wuerfel, Thomas Allan*
-Professor: Chase Murray
-University at Buffalo
+- Students: *Jack Wuerfel, Thomas Allan*
+- Professor: Chase Murray
+- University at Buffalo
 
 ---
 
