@@ -1,5 +1,5 @@
 # IE482-SP24-PROJECT
-## Robotic Bartender, AKA just get 
+## Robotic Bartender, AKA just get arm to do something
 *Jack Wuerfel, Thomas Allan*
 
 ---
