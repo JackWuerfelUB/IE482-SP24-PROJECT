@@ -1,6 +1,7 @@
 # IE482-SP24-PROJECT
 
-Jack Wuerfel, Thomas Allan
+*Jack Wuerfel, Thomas Allan*
+---
 
 ## What goes in your `README.md`?
 The following sections are required.  You may add other section as you see fit.
