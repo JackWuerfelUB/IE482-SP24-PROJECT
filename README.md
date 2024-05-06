@@ -31,7 +31,7 @@
 https://github.com/IE-482-582/spring2024/tree/main/notes
 ```
 ```
-[https://github.com/IE-482-582/spring2024/tree/main/notes](https://github.com/ClangWU/ur5_package)
+https://github.com/ClangWU/ur5_package
 ```
 ## Future Work
 - If you had more time, what would you do with this project?
