@@ -51,10 +51,11 @@
 ## How to Run the Code (1 of 2) - For Basic UR5 package Capabilties
 - (delete this) Now that your audience has installed the necessary software, how do they run it?
 Run the following code:
+>RVIZ and Gazebo should open.
    ```
    roslaunch ur5_robotiq85_moveit_config demo_gazebo.launch
    ```
-   >RVIZ and Gazebo should open.
+
 
 ## Demonstration (2 of 2) - Showing Basic UR5 package Capabilties
 - (delete this) Use a combination of screen shots, video, and paragraph explanation to show off your project.
