@@ -89,9 +89,12 @@ Run the following code:
 2. In terminal 2, run the following script:
    ```
    cd ~/catkin_ws/src/IE482-SP24-PROJECT/ur5_motion_planning/scripts
-   python3 scriptypoo.py
-   ```   
-![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO1%20-%20base%20UR5%20Package%20stuff/6-UR5%20arm%20after%20movement.png)
+   python3 ur5_moveit_gazebo_env.py 
+   ```
+   > change the script name later to something we make ourselves...
+
+    
+![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/meme.png)
 
 ## (prod delete??) notes while figuring out robot bartender..
 
