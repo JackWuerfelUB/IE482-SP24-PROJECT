@@ -33,14 +33,14 @@
    ```
    sudo apt install ros-noetic-moveit
    ```
-3. Install this repository into a catkin workspace and perform a catkin make:
+3. Install this repository into your catkin workspace and perform a catkin make:
    ```
-    cd ~/catkin_ws/src
-    git clone https://github.com/ClangWU/ur5_package.git
+   cd ~/catkin_ws/src
+   git clone https://github.com/JackWuerfelUB/IE482-SP24-PROJECT.git
    ```
-    ```
-    cd .. && catkin_make
-    ```
+   ```
+   cd .. && catkin_make
+   ```
 
 ## How to Run the Code
 - (delete this) Now that your audience has installed the necessary software, how do they run it?
