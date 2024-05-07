@@ -1,5 +1,5 @@
 # IE482-SP24-PROJECT
-## Robotic Bartender, AKA just get the arm to do something
+## Robot Bartender, AKA just get the UR5 to do something
 - Students: *Jack Wuerfel, Thomas Allan*
 - Professor: Dr. Chase Murray
 - University at Buffalo
@@ -8,11 +8,11 @@
 
 ## Motivation / Overview of your project.
   
-- `Application` What do you plan to do?  We want to use the UR5 robot arm as an automated bartender. Our goal is to have the robot take in voice commands, translate that to a pre-assigned location of the specified drink, and have the arm carefully grab/transport that drink to the user at the bar.
+- `Overview`  We initially planned on using the UR5 robot arm as an automated bartender. Our goal was to have the robot take in voice commands, translate that to a pre-assigned location of the specified drink, and have the arm carefully grab/transport that drink to the user at the bar.  But such was not the case; after the first few weeks of research, the project underwent ... what is essentially the reverse of "scope creep".  The deeper we dove into the individual steps of the project, the more we discovered the complexity of the tasks before us.  We started by removing one small aspect of the project until eventually we realized that "we just need to get this damn thing to move!"
 
-- `Motivation` Why should anyone care?  Our motivation is getting robo-crunk. Just kidding. But in all seriousness, we've seen a progression towards automation at restaurants and other service industries within the past five years. For example, an Asian buffet in Williamsville called "Wind" uses a robot (called a BellaBot) to deliver small plates of food to your table. A robotic arm that delivers drinks could potentially free up staff to perform other duties that the robot can't do yet (saying YET because the robot may eventually be able to take payments for drinks, detect and clean spills, and recognize regular patrons. Imagine if Sam Malone from "Cheers!" was a robot.)
+- `Motivation` Our motivation was initially out of genuine curiosity: can we get a robot to serve us drinks? pass the butter? do other things?  As stated previously, we were quickly humbled by the sheer scope of our project.  At that point, we'd be happy if we could control a UR5 arm (in Gazebo or the in-class arm) let alone use voice commands to move it and use the end effector.  The motivation became twofold: A- perform enough tasks and functions with the UR5 for a passing grade, and 2- create a usable repository that provides detailed documentation on the implementation of the UR5 in Gazebo.
 
-- `Scope Shift` We started off with many ideas of grandiose proportions but soon came to the realization that senoiritis was real, this project was quite monumental, and there were not alot of resources out there with the majority of the "work" already done (*meaning ready made repo's to clone that just worked or had adequate documentation for someone to easily use*). The goal shifted and we want to explain how a repo we found online works and try to get it to behave in the manner of a robotic bartender.
+- `Scope Shift` We started off with many ideas of grandiose proportions but soon came to the realization that senoiritis was real, this project was quite monumental, and there were not a lot of resources out there with the majority of the "work" already done (*repositories we could clone that were simply plug-and-play, or had adequate documentation for someone to easily implement themselves*). We aim to describe the manner in which a pre-existing repository was helpful in forming the basis of our robot bartender.
   
 ## Installation Instructions
 - (delete this) Assume that your reader has already installed ROS Noetic on a machine running Ubuntu 20.04.
@@ -84,9 +84,9 @@ https://moveit.ros.org/install/
 https://www.youtube.com/watch?v=ayp87SjrwPc
 ```
 ## Future Work
-- (delete this) If you had more time, what would you do with this project?
-    - (delete this) Are there some bugs you need to fix?  Please document where these are, what you've tried to do to fix them, and suggestions you have for how these could be fixed by someone else.
-    - (delete this) Are there new features you'd add?  Please provide as many details as possible.
+- If this became a hobby project for us (no timeline, no pressure, no grade), we'd publish a detailed repository that new UR5 users would use to bring the model into Gazebo and get it to move (using ROS Noetic and Ubuntu 20.04).  Ideally, there would be several types of end effectors available in the model space to use and control.  The user could control the UR5 via keypad shortcuts, similar to using Teleop to move the Husky as we did in class.
+- Jack list bugs here _____________.  Are there some bugs you need to fix?  Please document where these are, what you've tried to do to fix them, and suggestions you have for how these could be fixed by someone else.
+- Jack list new features we'd add _____________. Are there new features you'd add?  Please provide as many details as possible.
 
 ---
 # (delete this) Structure of your Repo
