@@ -14,7 +14,7 @@
 
 - `motivation` Why should anyone care?  Our motivation is getting robo-crunk. Just kidding. But in all seriousness, we've seen a progression towards automation at restaurants and other service industries within the past five years. For example, an Asian buffet in Williamsville called "Wind" uses a robot (called a BellaBot) to deliver small plates of food to your table. A robotic arm that delivers drinks could potentially free up staff to perform other duties that the robot can't do yet (saying YET because the robot may eventually be able to take payments for drinks, detect and clean spills, and recognize regular patrons. Imagine if Sam Malone from "Cheers!" was a robot.)
 
-- `Scope Shift` We started off strong but soon came to the realization that this project was quite monumental and there were not alot of resources out there with the moajority of the "work" already done. The goal shifted and we want to explain how a repo we found online works and try to get it to behave in the manner of a robotic bartender.
+- `Scope Shift` We started off with many ideas of grandiouse proportions but soon came to the realization that senoiritis was real, this project was quite monumental, and there were not alot of resources out there with the majority of the "work" already done (*meaning ready made repo's to clone that just worked or had adequate documentation for someone to easily use*). The goal shifted and we want to explain how a repo we found online works and try to get it to behave in the manner of a robotic bartender.
 
   
 ## Demonstration
