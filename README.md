@@ -1,5 +1,5 @@
 # IE482-SP24-PROJECT
-## Robotic Bartender, AKA just the get arm to do something
+## Robotic Bartender, AKA just get the arm to do something
 - Students: *Jack Wuerfel, Thomas Allan*
 - Professor: Dr. Chase Murray
 - University at Buffalo
@@ -17,7 +17,7 @@
 - `Scope Shift` We started off with many ideas of grandiouse proportions but soon came to the realization that senoiritis was real, this project was quite monumental, and there were not alot of resources out there with the majority of the "work" already done (*meaning ready made repo's to clone that just worked or had adequate documentation for someone to easily use*). The goal shifted and we want to explain how a repo we found online works and try to get it to behave in the manner of a robotic bartender.
 
   
-## Demonstration
+## Demonstration (1 of 2) - Showing UR5 package Capabilties
 - (delete this) Use a combination of screen shots, video, and paragraph explanation to show off your project.
    
 ## Installation Instructions
