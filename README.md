@@ -1,7 +1,7 @@
 # IE482-SP24-PROJECT
 ## Robotic Bartender, AKA just the get arm to do something
 - Students: *Jack Wuerfel, Thomas Allan*
-- Professor: Chase Murray
+- Professor: Dr. Chase Murray
 - University at Buffalo
 
 ---
@@ -46,7 +46,6 @@
    pico ~/.bashrc
    ```
    ```
-   export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/Desktop
    export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/catkin_ws/src/IE482-SP24-PROJECT/ur5_robotiq85_moveit_config/worlds
    ```  
 
