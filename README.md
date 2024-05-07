@@ -41,6 +41,14 @@
    ```
    cd .. && catkin_make
    ```
+4. Add Gazebo resource pathing:
+   ```
+   pico ~/.bashrc
+   ```
+   ```
+   export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/Desktop
+   export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/worlds
+   ```  
 
 ## How to Run the Code
 - (delete this) Now that your audience has installed the necessary software, how do they run it?
