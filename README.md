@@ -46,7 +46,25 @@
 ## Demonstration (1 of 2) - Showing Basic UR5 package Capabilties
 - (delete this) Use a combination of screen shots, video, and paragraph explanation to show off your project.
 - Run the line of code listed in the following section "How to Run the Code (1 of 2) - For Basic UR5 package Capabilties"
-- 
+
+- UR5 spawned into expty Gazebo World
+![UR5 spawned into expty Gazebo World](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO1%20-%20base%20UR5%20Package%20stuff/1-Demo1%20(arm%20in%20empty%20world).png)
+
+- RVIZ window with "planning" window shown, ensure planning group is "ur5_arm".
+![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO1%20-%20base%20UR5%20Package%20stuff/2-RVIZ%20Demo%20planning%20UR5%20Arm.png)
+
+- RVIZ window with "Joints" window shown, manipulate each joint to move robot arm.
+![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO1%20-%20base%20UR5%20Package%20stuff/3-RVIZ%20Motion%20Planning%20Joints.png)
+
+- RVIZ window back on "Planning" window, press "Plan & Execute" to initiate movement.
+![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO1%20-%20base%20UR5%20Package%20stuff/4-Motion%20Planning%20Close%20Up.png)
+
+- RVIZ model will continue to show the movement that was executed, like a forever looping gif.
+![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO1%20-%20base%20UR5%20Package%20stuff/5-RVIZ%20ARM%20movement.png)
+
+- Example of the UR5 model moving in the Gazebo simulated environment after movement was planned and executed in RVIZ.
+![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO1%20-%20base%20UR5%20Package%20stuff/6-UR5%20arm%20after%20movement.png)
+
 
 ## How to Run the Code (1 of 2) - For Basic UR5 package Capabilties
 - (delete this) Now that your audience has installed the necessary software, how do they run it?
