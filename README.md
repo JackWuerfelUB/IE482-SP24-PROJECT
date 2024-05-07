@@ -75,12 +75,22 @@ Run the following code:
    ```
 
 
-## Demonstration (2 of 2) - Showing Basic UR5 package Capabilties
+## Demonstration (2 of 2) - For Robotic Bartender
 - (delete this) Use a combination of screen shots, video, and paragraph explanation to show off your project.
 
 
-## How to Run the Code (2 of 2) - For Basic UR5 Capabilties
+## How to Run the Code (2 of 2) - For Robotic Bartender
 - (delete this) Now that your audience has installed the necessary software, how do they run it?
+1. In terminal 1, run the following code:
+   ```
+   put code here... rosrun blah bleh bloohbluh
+   ```
+
+2. In terminal 2, run the following code:
+   ```
+   cd to directory...
+   python3 scriptypoo.py
+   ```   
 
 ## References
 - (delete this) Include links to websites you found helpful.
