@@ -23,7 +23,7 @@
 ## Installation Instructions
 - (delete this) Assume that your reader has already installed ROS Noetic on a machine running Ubuntu 20.04.
 - (delete this) Provide **detailed** installation instructions so your audience can re-create your project.
-    - Include command line instructions in markdown code blocks so it's easy for your audience to copy-paste the commands.
+    - (delete this) Include command line instructions in markdown code blocks so it's easy for your audience to copy-paste the commands.
  
 1. Set up Linux environment by running the following script line by line:
    ```
