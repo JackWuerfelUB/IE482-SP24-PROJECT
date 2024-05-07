@@ -85,15 +85,15 @@ Run the following code:
 ## References
 - (delete this) Include links to websites you found helpful.
 - (delete this) Also mention websites you tried but were not as helpful
-> This amazing respository contained many of the building blocks on which we were able to expand our knowledge of the UR5.
+> Repository used for Spring24 semester of IE482, "somewhat helpful" [just kidding].
 ```
 https://github.com/IE-482-582/spring2024/tree/main/notes
 ```
-> This repository was a helpful starting point from which to add basic functionality to the UR5
+> This repository was a helpful starting point from which to add basic functionality to the UR5.
 ```
 https://github.com/ClangWU/ur5_package
 ```
-> MoveIt was beneficial in __________________
+> MoveIt is required for the UR5 package.
 ```
 https://moveit.ros.org/install/
 ```
@@ -103,6 +103,7 @@ https://www.youtube.com/watch?v=ayp87SjrwPc
 ```
 ## Future Work
 - If this became a hobby project for us (no timeline, no pressure, no grade), we'd publish a detailed repository that new UR5 users would use to bring the model into Gazebo and get it to move (using ROS Noetic and Ubuntu 20.04).  Ideally, there would be several types of end effectors available in the model space to use and control.  The user could control the UR5 via keypad shortcuts, similar to using Teleop to move the Husky as we did in class.
+- Figure out a way to communicate with the UR5 that is in Bell 427 and use this Repo as the "simulated" version of that environment.
 - Jack list bugs here _____________.  Are there some bugs you need to fix?  Please document where these are, what you've tried to do to fix them, and suggestions you have for how these could be fixed by someone else.
 - Jack list new features we'd add _____________. Are there new features you'd add?  Please provide as many details as possible.
 
