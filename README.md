@@ -7,8 +7,6 @@
 ---
 
 ## Motivation / Overview of your project.
-- (delete this) Why did you choose this project?   At a high level, what is your project about? Who should care about what you've done?
-
   
 - `Application` What do you plan to do?  We want to use the UR5 robot arm as an automated bartender. Our goal is to have the robot take in voice commands, translate that to a pre-assigned location of the specified drink, and have the arm carefully grab/transport that drink to the user at the bar.
 
@@ -68,17 +66,21 @@ Run the following code:
 ## References
 - (delete this) Include links to websites you found helpful.
 - (delete this) Also mention websites you tried but were not as helpful
-> COMMENTS?
+> This amazing respository contained many of the building blocks on which we were able to expand our knowledge of the UR5.
 ```
 https://github.com/IE-482-582/spring2024/tree/main/notes
 ```
-> COMMENTS?
+> This repository was a helpful starting point from which to add basic functionality to the UR5
 ```
 https://github.com/ClangWU/ur5_package
 ```
-> COMMENTS?
+> MoveIt was beneficial in __________________
 ```
 https://moveit.ros.org/install/
+```
+> This Tutorial was not helpful in that it runs on ROS Melodic.
+```
+https://www.youtube.com/watch?v=ayp87SjrwPc
 ```
 ## Future Work
 - (delete this) If you had more time, what would you do with this project?
