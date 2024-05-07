@@ -86,11 +86,12 @@ Run the following code:
    roslaunch ur5_robotiq85_moveit_config demo2_gazebo.launch
    ```
 
-2. In terminal 2, run the following code:
+2. In terminal 2, run the following script:
    ```
-   cd to directory...
+   cd ~/catkin_ws/src/IE482-SP24-PROJECT/ur5_motion_planning/scripts
    python3 scriptypoo.py
    ```   
+![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO1%20-%20base%20UR5%20Package%20stuff/6-UR5%20arm%20after%20movement.png)
 
 ## (prod delete??) notes while figuring out robot bartender..
 
