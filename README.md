@@ -47,7 +47,7 @@
    ```
    ```
    export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/Desktop
-   export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/catkin_ws/src/ur5_package/ur5_robotiq85_moveit_config/worlds
+   export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/catkin_ws/src/IE482-SP24-PROJECT/ur5_robotiq85_moveit_config/worlds
    ```  
 
 ## How to Run the Code
