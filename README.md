@@ -27,9 +27,20 @@
  
 1. Set up Linux environment by running the following script line by line:
    ```
-   [vm/autoinstall_482-582_2004.sh](https://github.com/IE-482-582/spring2024/blob/main/vm/autoinstall_482-582_2004.sh)
+   https://github.com/IE-482-582/spring2024/blob/main/vm/autoinstall_482-582_2004.sh
    ```
-3. Blah blah
+2. Download the moveit package:
+   ```
+   sudo apt install ros-noetic-moveit
+   ```
+3. Install this repository into a catkin workspace and perform a catkin make:
+   ```
+    cd ~/catkin_ws/src
+    git clone https://github.com/ClangWU/ur5_package.git
+   ```
+    ```
+    cd .. && catkin_make
+    ```
 
 ## How to Run the Code
 - (delete this) Now that your audience has installed the necessary software, how do they run it?
