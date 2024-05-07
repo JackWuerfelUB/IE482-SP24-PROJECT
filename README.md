@@ -83,7 +83,7 @@ Run the following code:
 - (delete this) Now that your audience has installed the necessary software, how do they run it?
 1. In terminal 1, run the following code:
    ```
-   put code here... rosrun blah bleh bloohbluh
+   roslaunch ur5_robotiq85_moveit_config demo2_gazebo.launch
    ```
 
 2. In terminal 2, run the following code:
@@ -91,6 +91,10 @@ Run the following code:
    cd to directory...
    python3 scriptypoo.py
    ```   
+
+## (prod delete??) notes while figuring out robot bartender..
+
+
 
 ## References
 - (delete this) Include links to websites you found helpful.
