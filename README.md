@@ -54,8 +54,9 @@
 - (delete this) Now that your audience has installed the necessary software, how do they run it?
 
 ## References
-- Include links to websites you found helpful.
-- Also mention websites you tried but were not as helpful
+- (delete this) Include links to websites you found helpful.
+- (delete this) Also mention websites you tried but were not as helpful
+> COMMENTS?
 ```
 https://github.com/IE-482-582/spring2024/tree/main/notes
 ```
@@ -63,20 +64,21 @@ https://github.com/IE-482-582/spring2024/tree/main/notes
 ```
 https://github.com/ClangWU/ur5_package
 ```
+> COMMENTS?
 ```
 https://moveit.ros.org/install/
 ```
 ## Future Work
-- If you had more time, what would you do with this project?
-    - Are there some bugs you need to fix?  Please document where these are, what you've tried to do to fix them, and suggestions you have for how these could be fixed by someone else.
-    - Are there new features you'd add?  Please provide as many details as possible.
+- (delete this) If you had more time, what would you do with this project?
+    - (delete this) Are there some bugs you need to fix?  Please document where these are, what you've tried to do to fix them, and suggestions you have for how these could be fixed by someone else.
+    - (delete this) Are there new features you'd add?  Please provide as many details as possible.
 
 ---
-# Structure of your Repo
-Your repository should have (at a minimum):
-- A `README.md` file (details described above)
-- An `images` or `media` folder where you stash all of the pictures, small videos, etc, that are referenced in your `README.md` file
-- One or more directories where you place your code (i.e., Python scripts and other supporting files).
+# (delete this) Structure of your Repo
+(delete this) Your repository should have (at a minimum):
+- (delete this) A `README.md` file (details described above)
+- (delete this) An `images` or `media` folder where you stash all of the pictures, small videos, etc, that are referenced in your `README.md` file
+- (delete this) One or more directories where you place your code (i.e., Python scripts and other supporting files).
 
 --- 
 
