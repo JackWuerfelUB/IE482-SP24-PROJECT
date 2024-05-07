@@ -25,8 +25,11 @@
 - (delete this) Provide **detailed** installation instructions so your audience can re-create your project.
     - Include command line instructions in markdown code blocks so it's easy for your audience to copy-paste the commands.
  
-1. Install Blah
-2. Blah blah
+1. Set up Linux environment by running the following script line by line:
+   ```
+   [vm/autoinstall_482-582_2004.sh](https://github.com/IE-482-582/spring2024/blob/main/vm/autoinstall_482-582_2004.sh)
+   ```
+3. Blah blah
 
 ## How to Run the Code
 - (delete this) Now that your audience has installed the necessary software, how do they run it?
@@ -39,6 +42,9 @@ https://github.com/IE-482-582/spring2024/tree/main/notes
 ```
 ```
 https://github.com/ClangWU/ur5_package
+```
+```
+https://moveit.ros.org/install/
 ```
 ## Future Work
 - If you had more time, what would you do with this project?
