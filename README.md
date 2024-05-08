@@ -107,7 +107,7 @@ To Do / Progress Table
 | -------------------------------------------- | ----------- |
 | Get package funtioning and understand it | 81.2% |
 | Create custom world and get it to open with launch file | 100% |
-| write a script to take the users input of which drink they want and then does something with that | 2.5% |
+| write a script to take the users input of which drink they want and then does something with that | 6.5% |
 | Create documentation and structure package so someone can just download this repo | 95% |
 | Pass IE482 | Low % |
 
@@ -133,15 +133,8 @@ https://www.youtube.com/watch?v=ayp87SjrwPc
 ## Future Work
 - If this became a hobby project for us (no timeline, no pressure, no grade), we'd publish a detailed repository that new UR5 users would use to bring the model into Gazebo and get it to move (using ROS Noetic and Ubuntu 20.04).  Ideally, there would be several types of end effectors available in the model space to use and control.  The user could control the UR5 via keypad shortcuts, similar to using Teleop to move the Husky as we did in class.
 - Figure out a way to communicate with the UR5 that is in Bell 427 and use this Repo as the "simulated" version of that environment.
-- Jack list bugs here _____________.  Are there some bugs you need to fix?  Please document where these are, what you've tried to do to fix them, and suggestions you have for how these could be fixed by someone else.
-- Jack list new features we'd add _____________. Are there new features you'd add?  Please provide as many details as possible.
+- Modify the python script mentioned in demonstration number 2.
 
----
-# (delete this) Structure of your Repo
-(delete this) Your repository should have (at a minimum):
-- (delete this) A `README.md` file (details described above)
-- (delete this) An `images` or `media` folder where you stash all of the pictures, small videos, etc, that are referenced in your `README.md` file
-- (delete this) One or more directories where you place your code (i.e., Python scripts and other supporting files).
 
 --- 
 
