@@ -77,7 +77,14 @@ Run the following code:
 
 ## Demonstration (2 of 2) - For Robotic Bartender
 - (delete this) Use a combination of screen shots, video, and paragraph explanation to show off your project.
+- The first image below shows the custom gazebo simulated world we created for this demonstration. The robot is positioned on a table and their is a beer can in front of it.
+![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO2%20-%20Bartender%20bot/1%20-%20Bot%20spawned%20in%20empty%20world%20with%20rvix%20in%20background.png)
 
+- The second image shows a the gazebo environment and temrinal window once the user runs the movement script. As you can see in the below image the patron has many options of drinks to choose from.
+![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO2%20-%20Bartender%20bot/2-%20%20robotender%20awaiting%20order.png)
+
+- The third image shows the robot failing to grab a beer. The robot then has a moment of existential dread and realizes it is not cut out to be a bartender.
+![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO2%20-%20Bartender%20bot/3-%20robotender%20failing%20to%20grab%20drink%20and%20self%20shaming.png)
 
 ## How to Run the Code (2 of 2) - For Robotic Bartender
 - (delete this) Now that your audience has installed the necessary software, how do they run it?
@@ -91,9 +98,7 @@ Run the following code:
    cd ~/catkin_ws/src/IE482-SP24-PROJECT/ur5_motion_planning/scripts
    python3 ur5_moveit_gazebo_env-JRW-TA-SAVE.py 
    ```
-   > change the script name later to something we make ourselves...
-
-    
+  
 ![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/meme.png)
 
 ## Some things we achieved:
