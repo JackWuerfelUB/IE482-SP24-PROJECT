@@ -89,14 +89,17 @@ Run the following code:
 2. In terminal 2, run the following script:
    ```
    cd ~/catkin_ws/src/IE482-SP24-PROJECT/ur5_motion_planning/scripts
-   python3 ur5_moveit_gazebo_env.py 
+   python3 ur5_moveit_gazebo_env-JRW-TA-SAVE.py 
    ```
    > change the script name later to something we make ourselves...
 
     
 ![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/meme.png)
 
-## (prod delete??) notes while figuring out robot bartender..
+## Some things we achieved:
+- Creation of custom world
+- Modification of launch files
+- Stellar attendence in class
 
 
 
