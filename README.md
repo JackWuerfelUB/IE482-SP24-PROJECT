@@ -15,9 +15,6 @@
 - `Scope Shift` We started off with many ideas of grandiose proportions but soon came to the realization that senoiritis was real, this project was quite monumental, and there were not a lot of resources out there with the majority of the "work" already done (*repositories we could clone that were simply plug-and-play, or had adequate documentation for someone to easily implement themselves*). We aim to describe the manner in which a pre-existing repository was helpful in forming the basis of our robot bartender.
   
 ## Installation Instructions
-- (delete this) Assume that your reader has already installed ROS Noetic on a machine running Ubuntu 20.04.
-- (delete this) Provide **detailed** installation instructions so your audience can re-create your project.
-    - (delete this) Include command line instructions in markdown code blocks so it's easy for your audience to copy-paste the commands.
  
 1. Set up Linux environment by running the following script line by line:
    ```
@@ -44,7 +41,6 @@
    ```  
 
 ## Demonstration (1 of 2) - Showing Basic UR5 package Capabilties
-- (delete this) Use a combination of screen shots, video, and paragraph explanation to show off your project.
 - Run the line of code listed in the following section "How to Run the Code (1 of 2) - For Basic UR5 package Capabilties"
 
 - UR5 spawned into expty Gazebo World
@@ -67,16 +63,15 @@
 
 
 ## How to Run the Code (1 of 2) - For Basic UR5 package Capabilties
-- (delete this) Now that your audience has installed the necessary software, how do they run it?
+
 Run the following code:
 >RVIZ and Gazebo should open.
    ```
    roslaunch ur5_robotiq85_moveit_config demo_gazebo.launch
    ```
 
-
 ## Demonstration (2 of 2) - For Robotic Bartender
-- (delete this) Use a combination of screen shots, video, and paragraph explanation to show off your project.
+
 - The first image below shows the custom gazebo simulated world we created for this demonstration. The robot is positioned on a table and their is a beer can in front of it.
 ![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO2%20-%20Bartender%20bot/1%20-%20Bot%20spawned%20in%20empty%20world%20with%20rvix%20in%20background.png)
 
@@ -101,16 +96,24 @@ Run the following code:
   
 ![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/meme.png)
 
-## Some things we achieved:
+## Some things we achieved (don't fail us please):
 - Creation of custom world
 - Modification of launch files
 - Stellar attendence in class
 
+## Final Status 
+To Do / Progress Table
+| Task | Progress (%) |
+| -------------------------------------------- | ----------- |
+| Get package funtioning and understand it | 81.2% |
+| Create custom world and get it to open with launch file | 100% |
+| write a script to take the users input of which drink they want and then does something with that | 2.5% |
+| Create documentation and structure package so someone can just download this repo | 95% |
+| Pass IE482 | Low % |
 
 
 ## References
-- (delete this) Include links to websites you found helpful.
-- (delete this) Also mention websites you tried but were not as helpful
+
 > Repository used for Spring24 semester of IE482, "somewhat helpful" [just kidding].
 ```
 https://github.com/IE-482-582/spring2024/tree/main/notes
