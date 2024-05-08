@@ -87,86 +87,29 @@
       <elevation>0</elevation>
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
-    <model name='beer'>
-      <link name='link'>
-        <pose>0 0 0.115 0 -0 0</pose>
-        <inertial>
-          <mass>0.39</mass>
-          <inertia>
-            <ixx>0.00058</ixx>
-            <ixy>0</ixy>
-            <ixz>0</ixz>
-            <iyy>0.00058</iyy>
-            <iyz>0</iyz>
-            <izz>0.00019</izz>
-          </inertia>
-          <pose>0 0 0 0 -0 0</pose>
-        </inertial>
-        <collision name='collision'>
-          <geometry>
-            <cylinder>
-              <radius>0.055</radius>
-              <length>0.23</length>
-            </cylinder>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <torsional>
-                <ode/>
-              </torsional>
-              <ode/>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='visual'>
-          <geometry>
-            <cylinder>
-              <radius>0.055</radius>
-              <length>0.23</length>
-            </cylinder>
-          </geometry>
-          <material>
-            <script>
-              <uri>model://beer/materials/scripts</uri>
-              <uri>model://beer/materials/textures</uri>
-              <name>Beer/Diffuse</name>
-            </script>
-          </material>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose>0.905622 -0.855338 0 0 -0 0</pose>
-    </model>
     <state world_name='default'>
-      <sim_time>875 388000000</sim_time>
-      <real_time>165 428854029</real_time>
-      <wall_time>1715207256 4649185</wall_time>
-      <iterations>165295</iterations>
-      <model name='beer'>
-        <pose>0.302926 1.01998 0.775001 -2e-06 -1.4e-05 0.001628</pose>
+      <sim_time>824 975000000</sim_time>
+      <real_time>115 209511071</real_time>
+      <wall_time>1715207625 76690455</wall_time>
+      <iterations>114882</iterations>
+      <model name='beer_clone'>
+        <pose>-0.265345 1.02876 0.775001 2.3e-05 5e-06 0.001222</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>0.302924 1.01998 0.890001 -2e-06 -1.4e-05 0.001628</pose>
+          <pose>-0.265345 1.02876 0.890001 2.3e-05 5e-06 0.001222</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0.012958 0.004965 19.0316 -0.043182 0.112687 1e-06</acceleration>
-          <wrench>0.005054 0.001937 7.42231 0 -0 0</wrench>
+          <acceleration>0.000809 -0.002486 19.5939 0.021624 0.007039 -7e-06</acceleration>
+          <wrench>0.000315 -0.00097 7.64163 0 -0 0</wrench>
         </link>
       </model>
-      <model name='beer_clone'>
-        <pose>-0.354451 1.00725 0.775001 -1e-06 2.6e-05 0.022882</pose>
+      <model name='beer_clone_clone'>
+        <pose>0.233552 0.966646 0.774991 -1e-06 -3e-06 0.001977</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-0.354448 1.00725 0.890001 -1e-06 2.6e-05 0.022882</pose>
+          <pose>0.233552 0.966646 0.889991 -1e-06 -3e-06 0.001977</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-2.99381 -0.167892 20.5042 1.45542 -0.899709 -0.009157</acceleration>
-          <wrench>-1.16759 -0.065478 7.99665 0 -0 0</wrench>
+          <acceleration>0 0 -9.8 -2e-06 0 0</acceleration>
+          <wrench>0 0 -3.822 0 -0 0</wrench>
         </link>
       </model>
       <model name='cafe_table'>
@@ -180,20 +123,20 @@
         </link>
       </model>
       <model name='cafe_table_0_clone_0'>
-        <pose>-0.019943 0.951737 0 0 -0 0</pose>
+        <pose>0.024717 0.95271 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-0.019943 0.951737 0 0 -0 0</pose>
+          <pose>0.024717 0.95271 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='cafe_table_0_clone_0_clone_0'>
-        <pose>-0.004605 -1.01099 0 0 -0 0</pose>
+        <pose>-0.057237 -1.02563 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-0.004605 -1.01099 0 0 -0 0</pose>
+          <pose>-0.057237 -1.02563 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -214,81 +157,81 @@
         <scale>1 1 1</scale>
         <link name='base_link'>
           <pose>-0 -0 0.8 4.7e-05 -3.9e-05 1e-06</pose>
-          <velocity>0 -0 -0 0 -0 0</velocity>
-          <acceleration>0 -0 -0 0 -0 0</acceleration>
-          <wrench>0 -0 -0 0 -0 0</wrench>
+          <velocity>-0 0 -0 0 -0 0</velocity>
+          <acceleration>-0 0 0 0 -0 0</acceleration>
+          <wrench>-0 0 0 0 -0 0</wrench>
         </link>
         <link name='forearm_link'>
           <pose>0.016492 -0.010623 1.31401 -0.002603 -1.5187 -1.5421</pose>
           <velocity>-0.000144 0.005365 0.00014 -0.012167 -0.000318 -0.000316</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <acceleration>-0 -0 -0 0 -0 0</acceleration>
+          <wrench>-0 -0 -0 0 -0 0</wrench>
         </link>
         <link name='robotiq_85_left_finger_tip_link'>
-          <pose>0.049099 0.484927 1.14882 -2.94293 1.52646 1.79574</pose>
+          <pose>0.049099 0.484928 1.14882 -2.94292 1.52646 1.79574</pose>
           <velocity>1.8e-05 0.003251 -0.005927 -0.012644 -0.000469 -0.000268</velocity>
-          <acceleration>0.018027 3.25123 -5.92739 1.21866 -0.388041 -0.846033</acceleration>
+          <acceleration>0.018028 3.25123 -5.92739 1.21866 -0.388041 -0.846032</acceleration>
           <wrench>0.000353 0.063578 -0.11591 0 -0 0</wrench>
         </link>
         <link name='robotiq_85_left_inner_knuckle_link'>
-          <pose>0.082661 0.483791 1.19506 2.01608 1.46976 0.469395</pose>
+          <pose>0.082661 0.483791 1.19506 2.01608 1.46976 0.469393</pose>
           <velocity>-3e-06 0.003827 -0.005898 -0.012645 -0.000443 -0.000267</velocity>
-          <acceleration>-0.002742 3.82702 -5.89816 -0.645764 -1.22602 1.37882</acceleration>
+          <acceleration>-0.002742 3.82702 -5.89816 -0.64582 -1.22617 1.37882</acceleration>
           <wrench>-8.2e-05 0.114623 -0.176656 0 -0 0</wrench>
         </link>
         <link name='robotiq_85_left_knuckle_link'>
-          <pose>0.064831 0.483036 1.20173 2.01623 1.46975 0.469535</pose>
+          <pose>0.064831 0.483036 1.20173 2.01623 1.46975 0.469533</pose>
           <velocity>-3e-06 0.003916 -0.005888 -0.012676 0.000757 -0.000215</velocity>
-          <acceleration>-0 -0 1e-06 6e-06 2.5e-05 3e-06</acceleration>
-          <wrench>-0 -0 0 0 -0 0</wrench>
+          <acceleration>0 0 -1e-06 9e-06 2.4e-05 1e-06</acceleration>
+          <wrench>0 0 -0 0 -0 0</wrench>
         </link>
         <link name='robotiq_85_right_finger_tip_link'>
-          <pose>0.140692 0.487353 1.14802 0.198703 1.52646 1.79578</pose>
+          <pose>0.140692 0.487353 1.14802 0.198705 1.52646 1.79578</pose>
           <velocity>-0.000102 0.003218 -0.006014 -0.012711 0.002095 -0.000157</velocity>
-          <acceleration>-0.101894 3.21768 -6.01424 -1.93821 1.39438 2.44487</acceleration>
+          <acceleration>-0.101894 3.21768 -6.01424 -1.93822 1.39438 2.44487</acceleration>
           <wrench>-0.001993 0.062922 -0.117608 0 -0 0</wrench>
         </link>
         <link name='robotiq_85_right_inner_knuckle_link'>
           <pose>0.108051 0.484464 1.19484 1.1897 1.45371 2.78895</pose>
           <velocity>-3e-06 0.003818 -0.005908 -0.012712 0.002131 -0.000155</velocity>
-          <acceleration>-0.002588 3.81797 -5.90796 -0.512199 -0.855592 -0.264043</acceleration>
+          <acceleration>-0.002588 3.81797 -5.90796 -0.512224 -0.855746 -0.264034</acceleration>
           <wrench>-7.8e-05 0.114352 -0.176949 0 -0 0</wrench>
         </link>
         <link name='robotiq_85_right_knuckle_link'>
           <pose>0.12601 0.484656 1.20119 1.18961 1.45371 2.78886</pose>
           <velocity>-2e-06 0.003894 -0.005911 -0.012653 -0.000136 -0.000254</velocity>
-          <acceleration>-0.002149 3.89401 -5.91478 -1.643 1.21876 -2.99363</acceleration>
+          <acceleration>-0.002149 3.89401 -5.91478 -1.643 1.21877 -2.99363</acceleration>
           <wrench>-9.8e-05 0.178346 -0.270897 0 -0 0</wrench>
         </link>
         <link name='shoulder_link'>
           <pose>-2e-06 -4e-06 0.889159 -8.3e-05 -8.8e-05 -1.5447</pose>
-          <velocity>-0 0 0 -0 -0 -0.000318</velocity>
-          <acceleration>-0 0 0 -0 -0 -0</acceleration>
-          <wrench>-0 0 0 0 -0 0</wrench>
+          <velocity>0 -0 0 -0 -0 -0.000318</velocity>
+          <acceleration>0 -0 -0 0 -0 0</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
         <link name='upper_arm_link'>
           <pose>0.135802 0.003543 0.889144 -0.000142 0.026 -1.5447</pose>
           <velocity>1e-06 -4.3e-05 0 -0.012639 -0.00033 -0.000316</velocity>
-          <acceleration>-0 0 0 0 -4e-06 -1e-06</acceleration>
-          <wrench>-0 0 0 0 -0 0</wrench>
+          <acceleration>0 -0 -0 0 -4e-06 -1e-06</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
         <link name='wrist_1_link'>
           <pose>0.006275 0.380962 1.33443 -0.00337 -1.5273 -1.54134</pose>
           <velocity>-2.6e-05 0.005616 -0.004628 -0.012649 -0.00033 -0.000316</velocity>
-          <acceleration>0 -0 0 0 -0 0</acceleration>
-          <wrench>0 -0 0 0 -0 0</wrench>
+          <acceleration>-0 0 -0 0 -0 0</acceleration>
+          <wrench>-0 0 -0 0 -0 0</wrench>
         </link>
         <link name='wrist_2_link'>
           <pose>0.099243 0.383388 1.33442 -1.52732 0.008742 0.026468</pose>
           <velocity>-2.5e-05 0.005587 -0.004628 -0.012659 5.3e-05 -0.000299</velocity>
-          <acceleration>0 0 0 0 0 -1e-06</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <acceleration>-0 -0 -0 0 0 -1e-06</acceleration>
+          <wrench>-0 -0 -0 0 -0 0</wrench>
         </link>
         <link name='wrist_3_link'>
-          <pose>0.096776 0.477916 1.33853 -1.52732 0.008744 0.026469</pose>
+          <pose>0.096776 0.477916 1.33853 -1.52732 0.008744 0.026467</pose>
           <velocity>3e-06 0.00564 -0.005825 -0.012658 5.1e-05 -0.000246</velocity>
-          <acceleration>-0 -0 0 0 -4e-06 0</acceleration>
-          <wrench>-0 -0 0 0 -0 0</wrench>
+          <acceleration>0 0 -0 0 -4e-06 0</acceleration>
+          <wrench>0 0 -0 0 -0 0</wrench>
         </link>
       </model>
       <light name='sun'>
@@ -701,7 +644,7 @@
     </model>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>6.33464 -4.19005 4.24598 0 0.383643 2.5354</pose>
+        <pose>-0.323489 13.5167 10.6623 -0 0.531643 -1.5518</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
@@ -1803,6 +1746,63 @@
       </frame>
       <frame name='tool0' attached_to='wrist_3_link-tool0_fixed_joint'/>
       <pose>0 0 0.8 0 -0 0</pose>
+    </model>
+    <model name='beer_clone_clone'>
+      <link name='link'>
+        <pose>0 0 0.115 0 -0 0</pose>
+        <inertial>
+          <mass>0.39</mass>
+          <inertia>
+            <ixx>0.00058</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.00058</iyy>
+            <iyz>0</iyz>
+            <izz>0.00019</izz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <cylinder>
+              <radius>0.055</radius>
+              <length>0.23</length>
+            </cylinder>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <geometry>
+            <cylinder>
+              <radius>0.055</radius>
+              <length>0.23</length>
+            </cylinder>
+          </geometry>
+          <material>
+            <script>
+              <uri>model://beer/materials/scripts</uri>
+              <uri>model://beer/materials/textures</uri>
+              <name>Beer/Diffuse</name>
+            </script>
+          </material>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>0.233555 0.966604 0.775001 -2.2e-05 0 0.000929</pose>
     </model>
   </world>
 </sdf>
