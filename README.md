@@ -135,7 +135,9 @@ https://www.youtube.com/watch?v=ayp87SjrwPc
 - Figure out a way to communicate with the UR5 that is in Bell 427 and use this Repo as the "simulated" version of that environment.
 - Modify the python script mentioned in demonstration number 2.
 
-
+## Traceing of packages
+- to do trace "family" tree of packages...
+maybe?? https://github.com/ros-industrial/robotiq
 --- 
 
 
