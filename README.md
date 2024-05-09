@@ -75,7 +75,7 @@ Run the following code:
 - The first image below shows the custom gazebo simulated world we created for this demonstration. The robot is positioned on a table and their is a beer can in front of it.
 ![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO2%20-%20Bartender%20bot/1%20-%20Bot%20spawned%20in%20empty%20world%20with%20rvix%20in%20background.png)
 
-- The second image shows a the gazebo environment and temrinal window once the user runs the movement script. As you can see in the below image the patron has many options of drinks to choose from.
+- The second image shows a the gazebo environment and terminal window once the user runs the movement script. As you can see in the below image the patron has many options of drinks to choose from.
 ![Model in Gazebo](https://github.com/JackWuerfelUB/IE482-SP24-PROJECT/blob/main/Media/DEMO2%20-%20Bartender%20bot/2-%20%20robotender%20awaiting%20order.png)
 
 - The third image shows the robot failing to grab a beer. The robot then has a moment of existential dread and realizes it is not cut out to be a bartender.
@@ -114,7 +114,7 @@ To Do / Progress Table
 
 ## References
 
-> Repository used for Spring24 semester of IE482, "somewhat helpful" [just kidding].
+> An amazing Repository used for Spring24 semester of IE482.  Very helpful.  11/10.
 ```
 https://github.com/IE-482-582/spring2024/tree/main/notes
 ```
