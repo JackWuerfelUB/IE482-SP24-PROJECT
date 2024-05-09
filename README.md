@@ -138,6 +138,8 @@ https://www.youtube.com/watch?v=ayp87SjrwPc
 ## Traceing of packages
 - to do trace "family" tree of packages...
 maybe?? https://github.com/ros-industrial/robotiq
+
+Try using "meld" program in linux to do easy file similarity analysis
 --- 
 
 
